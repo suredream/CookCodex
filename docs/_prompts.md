@@ -1,7 +1,11 @@
 <!--
-TARGET: GenAI model and developers.
-USAGE: The single source of truth for all agent prompts.
+TARGET: ai model and developers.
+USAGE: The single source of truth prompts for project.
 -->
+
+```markdown
+
+```
 
 # Agent Prompts
 
