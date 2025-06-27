@@ -1,0 +1,16 @@
+# mkdocs.yml
+
+site_name: CookCodex
+site_url: https://suredream.github.io/cookcodex/
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - 'Home': 'index.md'
+  - 'Tour': '01_tour.md'
+  - 'Architecture': '02_architecture.md'
+  - 'Design Records': '03_design_records.md'
