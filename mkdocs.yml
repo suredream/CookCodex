@@ -11,6 +11,7 @@ theme:
 
 nav:
   - 'Home': 'index.md'
-  - 'Tour': '01_tour.md'
+  - 'Project README': 'readme.md'
   - 'Architecture': '02_architecture.md'
   - 'Design Records': '03_design_records.md'
+  - 'Tour': '04_tour.md'

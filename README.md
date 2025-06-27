@@ -40,6 +40,7 @@ A project using CookCodex follows this structure:
 │   ├── 02_architecture.md      # The "What": The system's complete architecture.
 │   ├── 03_design_records.md    # The "Why": A log of key design decisions.
 │   └── specs/                  # Detailed specifications for new features.
+│   └── cc_prompts/             # Ready-to-use CookCodex prompts
 |
 ├── ai_context/              # AI-READABLE: The "brain food" for your AI collaborator.
 │   ├── system_overview.md   # A condensed, machine-friendly architecture summary.
